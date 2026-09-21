@@ -22,14 +22,14 @@ const matheus: Desenvolvedor = {
   local: "Santa Catarina, Brasil",
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Storybook"],
   backend: ["Java", "Spring Boot", "NestJS", "PostgreSQL"],
-  interesses: ["Design systems", "UX em produtos de saúde", "Arquitetura multi-tenant"],
+  interesses: ["Design systems", "Acessibilidade", "Experiência do usuário"],
   missao: () => "Construir interfaces que facilitem a gestão da saúde pública no Brasil",
 };
 ```
 
-- 🏥 Desenvolvedor full-stack na **Radar Saúde**, plataforma de gestão para a saúde pública municipal
-- 🎨 Foco em **front-end com React e Next.js**, incluindo a biblioteca de componentes e o design system da empresa
-- ☕ No back-end, trabalho com **Java/Spring** e **NestJS** em sistemas multi-tenant que atendem dezenas de municípios
+- 🏥 Desenvolvedor full-stack na **Radar Saúde**, atuando em soluções de gestão em saúde
+- 🎨 Foco em **front-end com React e Next.js**, com interesse em design systems e bibliotecas de componentes
+- ☕ No back-end, trabalho com **Java/Spring** e **NestJS**
 - 🎓 TCC em desenvolvimento mobile na área da saúde ([AppEstomia](https://github.com/MatheusOliveiraR/AppEstomia))
 - 🎮 Fora do código: partidas de League of Legends e fuçar em hardware
 
@@ -108,7 +108,7 @@ const matheus: Desenvolvedor = {
 ### 🟩 Contribuições no último ano
 
 <a href="https://github.com/MatheusOliveiraR">
-  <img src="https://ghchart.rshah.org/58a6ff/MatheusOliveiraR" width="100%" alt="Gráfico de contribuições"/>
+  <img src="https://ghchart.rshah.org/MatheusOliveiraR" width="100%" alt="Gráfico de contribuições"/>
 </a>
 
 </div>
@@ -119,7 +119,6 @@ const matheus: Desenvolvedor = {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Radar Saúde** | Plataforma multi-tenant de gestão em saúde pública onde atuo no dia a dia, do design system às APIs | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [**Desafio**](https://github.com/MatheusOliveiraR/Desafio) | Desafio técnico full-stack com front em React + Ant Design e API em Java | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [**AppEstomia**](https://github.com/MatheusOliveiraR/AppEstomia) | Aplicativo mobile desenvolvido como TCC, voltado ao acompanhamento de pacientes estomizados | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
