@@ -107,9 +107,11 @@ const matheus: Desenvolvedor = {
 
 ### 🟩 Contribuições no último ano
 
-<a href="https://github.com/MatheusOliveiraR">
-  <img src="https://ghchart.rshah.org/MatheusOliveiraR" width="100%" alt="Gráfico de contribuições"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusOliveiraR/MatheusOliveiraR/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusOliveiraR/MatheusOliveiraR/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/MatheusOliveiraR/MatheusOliveiraR/output/github-snake.svg" width="100%" alt="Cobrinha comendo as contribuições"/>
+</picture>
 
 </div>
 
